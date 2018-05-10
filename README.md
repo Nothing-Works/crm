@@ -50,7 +50,7 @@ $ php artisan migrate --seed
 $ php artisan key:generate
 ```
 
-
+7.login in with these credentials Mail: admin@admin.com Password: admin123 (Can be changed in the dashboard)
 8. You are good to go
 
 ## About Laravel
