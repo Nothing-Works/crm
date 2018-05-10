@@ -39,7 +39,7 @@ Even easier installation
 ```
 $ composer install
 ```
-3.Copy .env file to the folder download from git and modify
+3.Copy the .env.example to .env and insert the Database config
 
 4.Migrate database
 ```
