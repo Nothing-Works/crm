@@ -12,19 +12,25 @@
 ## Features
 
 
-Using php and vue. 
+Tasks management
+Leads management
+Simple invoice management
+Easy & simple time management for each task
+Role management (Create and update your own roles)
+Easy configurable settings
+Client overview (Keep easy track of open tasks for each client etc)
+Upload documents to each clients (easy track of contracts and more)
+Fast overview over your own open tasks, leads etc
+Global dashboard
+To-do
+Flarepoint is still under development, so there are a lot on my to-do list.
 
-mark best reply
-
-lock threads
-
-Subscriptions
-
-Spam Detection
-
-mention user
-
-email confirmation
+Multiple integrations (Slack, e-conomic, Google Drive, dropbox etc.)
+Different Color schemes
+API
+Excel Import/export
+Better cache
+Even easier installation
 
 ## Installation
 1.Clone from git
